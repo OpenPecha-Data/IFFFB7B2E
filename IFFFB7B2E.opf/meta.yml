@@ -1,0 +1,16 @@
+id: IFFFB7B2E
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:15:38.833834
+last_modified: 2023-02-08 15:15:38.833913
+source_metadata:
+  title: 'PP: Prajñāpāramitāhṛdaya'
+  language: bo
+bases:
+  3F22:
+    base_file: 3F22.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

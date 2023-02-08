@@ -1,0 +1,47 @@
+id: db4826c23ea6404b9da88cd5f9a7cd59
+annotation_type: index
+revision: '00001'
+annotations:
+  8a12863f39684ac8aa1c5259b14fea45:
+    base: 3F22.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 147
+    - title: Homage
+      span:
+        start: 148
+        end: 496
+    - title: Short §1
+      span:
+        start: 497
+        end: 1103
+    - title: Short §2
+      span:
+        start: 1104
+        end: 1436
+    - title: Short §3
+      span:
+        start: 1437
+        end: 1519
+    - title: Short §4
+      span:
+        start: 1520
+        end: 2009
+    - title: Short §5
+      span:
+        start: 2010
+        end: 2194
+    - title: Short §6
+      span:
+        start: 2195
+        end: 2571
+    - title: Short §7
+      span:
+        start: 2572
+        end: 3730
+    - title: Colophon
+      span:
+        start: 3731
+        end: 3994
